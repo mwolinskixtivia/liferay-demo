@@ -1,0 +1,5 @@
+Bundle-Name: demo-widget
+Bundle-SymbolicName: demo.widget
+Bundle-Version: 1.0.0
+Export-Package: demo.widget.constants
+Web-ContextPath: /demo-widget

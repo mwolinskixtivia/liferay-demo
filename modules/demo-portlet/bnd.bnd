@@ -1,0 +1,4 @@
+Bundle-Name: demo-portlet
+Bundle-SymbolicName: demo.portlet
+Bundle-Version: 1.0.0
+Export-Package: demo.portlet.constants
